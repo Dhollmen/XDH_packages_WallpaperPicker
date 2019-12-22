@@ -17,13 +17,22 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>abstract_orderofchaos</item>
-        <item>abstract_spacestory</item>
-        <item>abstract_unsplash</item>
-        <item>nature_isolated</item>
-        <item>nature_light</item>
-        <item>space_nebulae</item>
-        <item>space_riseup</item>
-        <item>urban_nightroad</item>
+        <item>wall01</item>
+        <item>wall02</item>
+        <item>wall03</item>
+        <item>wall04</item>
+        <item>wall05</item>
+        <item>wall06</item>
+        <item>wall07</item>
+        <item>wall08</item>
+        <item>wall09</item>
+        <item>wall10</item>
+        <item>wall11</item>
+        <item>wall12</item>
+        <item>wall13</item>
+        <item>wall14</item>
+        <item>wall15</item>
+        <item>wall16</item>
+        <item>wall17</item>
     </string-array>
 </resources>
